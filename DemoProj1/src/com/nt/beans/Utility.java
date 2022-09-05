@@ -17,7 +17,14 @@ public class Utility {
 		System.out.println("Utility.m2()");
 	}
 	
+ 
 	public void m4() {
 		System.out.println("Utility.m4()");
+	}
+ 
+	public void m3() {
+	 System.out.println("Utility.m3()");
+		
+ 
 	}
 }
