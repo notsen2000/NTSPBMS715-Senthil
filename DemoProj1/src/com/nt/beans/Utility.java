@@ -12,4 +12,8 @@ public class Utility {
 		System.out.println("Utility.m1()======TL Modfocation 1234");
 		System.out.println("ABCD----------+++++++++++++++++++++++++++++++=");
 	}
+	
+	public void m2() {
+		System.out.println("Utility.m2()");
+	}
 }
